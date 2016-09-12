@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">IntegrationTest</string>
+    <string name="cancel">Cancel</string>
+    <string name="select">Selecionar</string>
+    <string name="sound_dialog_title">Selecionar som de notificação</string>
+    <string name="birl_sound_title">Malhar</string>
+    <string name="drumn_sound_title"> Bateria</string>
+    <string name="bass_sound_title"> Baixo</string>
+    <string name="bell_sound_title"> Sino</string>
+    <string name="piano_sound_title"> Piano</string>
+
 </resources>
